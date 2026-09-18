@@ -1,3 +1,11 @@
+## Demo
+
+Closed-loop manipulation in LIBERO-Spatial:
+
+[▶ Watch MiniVLA rollout](assets/minivla_libero_success.mp4)
+
+**50-rollout LIBERO-Spatial evaluation: 23/50 successful (46.0%)**
+
 # MiniVLA
 
 A lightweight Vision-Language-Action (VLA) model built from scratch with **DINOv2 + Qwen2.5-0.5B**, trained on **LIBERO-Spatial** demonstrations for autoregressive 7-DoF robot control.
