@@ -358,7 +358,7 @@ MiniVLA/
 ### 1. Clone MiniVLA
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MiniVLA.git
+git clone https://github.com/dev1ce0330/MiniVLA.git
 cd MiniVLA
 ```
 
