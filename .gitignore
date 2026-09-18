@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Training logs
+wandb/
+logs/
+outputs/
+
+# Local datasets
+data/
+datasets/
+
+# Large rollout outputs
+rollouts/
+alignment_debug/
+
+# Hugging Face cache
+.cache/
+huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmpx
+
+
+
