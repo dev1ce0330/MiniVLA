@@ -6,6 +6,17 @@ Closed-loop manipulation in LIBERO-Spatial:
 
 **50-rollout LIBERO-Spatial evaluation: 23/50 successful (46.0%)**
 
+### Key Results
+
+| Evaluation | Result |
+|---|---:|
+| Seen-state action-token accuracy | **94.66%** |
+| Seen-state exact-action accuracy | **75.20%** |
+| Seen-state action MAE | **0.003094** |
+| 50-rollout closed-loop success rate | **46.0% (23/50)** |
+
+> Closed-loop evaluation uses 10 LIBERO-Spatial tasks × 5 fixed initial states per task. This is a small-scale experimental evaluation rather than the official full LIBERO benchmark protocol.
+
 # MiniVLA
 
 A lightweight Vision-Language-Action (VLA) model built from scratch with **DINOv2 + Qwen2.5-0.5B**, trained on **LIBERO-Spatial** demonstrations for autoregressive 7-DoF robot control.
